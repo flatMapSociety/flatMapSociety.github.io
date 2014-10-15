@@ -8,43 +8,12 @@ layout: null
     <description>{{ site.description | xml_escape }}</description>
     <link>{{ site.url }}{{ site.baseurl }}/</link>
     <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml" />
-    <itunes:subtitle>DFW chapter</itunes:subtitle>
-
-    <itunes:author>Steven Gangstead &amp; Andrew Rubalcaba</itunes:author>
-
-    <itunes:keywords>dfw,tech,podcast</itunes:keywords>
-
-    <itunes:summary>{{ site.description | xml_escape }}</itunes:summary>
-
-    <itunes:owner>
-
-    <itunes:name>Steven Gangstead</itunes:name>
-
-    <itunes:email>flatMapSociety@gangstead.com</itunes:email>
-
-    </itunes:owner>
-
-    <itunes:image href="http://flatmapsociety.github.io/images/flatMap-logo.jpg" />
-
-    <itunes:category text="Technology" />
-
-    <itunes:new-feed-url>http://flatmapsociety.github.io/feed.xml</itunes:new-feed-url>
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <generator>Jekyll v{{ jekyll.version }}</generator>
     {% for post in site.posts limit:10 %}
       <item>
-        <title>flatMap Society {{ post.title | xml_escape }}</title>
-        <itunes:author>Steven Gangstead &amp; Andrew Rubalcaba</itunes:author>
-
-       <itunes:subtitle>{{ post.subtitle }}</itunes:subtitle>
-
-       <itunes:summary>{{ post.content | xml_escape }}</itunes:summary>
-
-       <itunes:image href="http://flatmapsociety.github.io/images/flatMap-logo.jpg" />
-       <itunes:duration>{{ post.duration }}</itunes:duration>
-       <itunes:keywords>dfw,tech,podcast</itunes:keywords>
-       <enclosure url="{{ post.link }}" length="{{ post.length }}" type="audio/mp3" />
+        <title>{{ post.title | xml_escape }}</title>
         <description>{{ post.content | xml_escape }}</description>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
