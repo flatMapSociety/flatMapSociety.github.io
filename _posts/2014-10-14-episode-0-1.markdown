@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Episode 0.1"
+date:   2014-10-14 21:28:46
+categories: jekyll update
+duration: 22:43
+length: 32710866
+link: http://flatmapsociety.github.io/episodes/flatMap_0_1-2014-10-15.mp3
+---
+This is the alpha, limited release, pilot, other qualifier episode of The flatMap Society.  It's more than an episode 0, but definitely not yet an episode 1.0.  Like the website so far it's pretty rough.
+
+In this episode [Andrew][andrew] and [I][steven] talk about our experience with our recently complete project: a [Typesafe Activator template][activator].
+
+Here are the [show notes][shownotes] with any links we promised during the podcast.
+
+Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+
+[andrew]:      http://twitter.com/han_cholo
+[steven]:     http://twitter.com/gangstead
+[activator]: https://typesafe.com/activator/templates
+[shownotes]: https://gist.github.com/gangstead/01dd6c59e23f6db61be4
