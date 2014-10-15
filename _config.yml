@@ -1,0 +1,12 @@
+# Site settings
+title: the flatMap Society
+email: flatmapsociety@gangstead.com
+description: > # this means to ignore newlines until "baseurl:"
+  Half hour of tech for DFW
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://flatmapsociety.github.io/" # the base hostname & protocol for your site
+twitter_username: flatMapSociety
+github_username:  flatMapSociety
+
+# Build settings
+markdown: kramdown
