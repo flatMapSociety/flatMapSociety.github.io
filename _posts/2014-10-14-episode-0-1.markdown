@@ -12,7 +12,9 @@ This is the alpha, limited release, pilot, other qualifier episode of The flatMa
 
 In this episode [Andrew][andrew] and [I][steven] talk about our experience with our recently complete project: a [Typesafe Activator template][activator].
 
-Here are the [show notes][shownotes] with any links we promised during the podcast.
+* Episode [mp3](http://flatmapsociety.github.io/episodes/flatMap_0_1-2014-10-15.mp3)
+* iTunes submission currently under review
+* Here are the [show notes][shownotes] with any links we promised during the podcast
 
 [andrew]:      http://twitter.com/han_cholo
 [steven]:     http://twitter.com/gangstead
