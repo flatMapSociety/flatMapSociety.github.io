@@ -23,7 +23,7 @@ layout: null
 
     </itunes:owner>
 
-    <itunes:image href="http://flatmapsociety.github.io/images/flatMap-logo.jpg" />
+    <itunes:image href="http://flatmapsociety.github.io/images/flatmap-logo-big.jpg" />
 
     <itunes:category text="Technology" />
 
@@ -40,7 +40,7 @@ layout: null
 
        <itunes:summary>{{ post.content | xml_escape }}</itunes:summary>
 
-       <itunes:image href="http://flatmapsociety.github.io/images/flatMap-logo.jpg" />
+       <itunes:image href="http://flatmapsociety.github.io/images/flatmap-logo-big.jpg" />
        <itunes:duration>{{ post.duration }}</itunes:duration>
        <itunes:keywords>dfw,tech,podcast</itunes:keywords>
        <enclosure url="{{ post.link }}" length="{{ post.length }}" type="audio/mp3" />
