@@ -3,18 +3,18 @@ layout: post
 title:  "Episode 0.1"
 subtitle: "Activator Template"
 date:   2014-10-14 21:28:46
-categories: jekyll update
+categories: episode scala
 duration: 22:43
 length: 32710866
 link: http://flatmapsociety.github.io/episodes/flatMap_0_1-2014-10-15.mp3
 ---
 This is the alpha, limited release, pilot, other qualifier episode of The flatMap Society.  It's more than an episode 0, but definitely not yet an episode 1.0.  Like the website so far it's pretty rough.
 
-In this episode [Andrew][andrew] and [I][steven] talk about our experience with our recently complete project: a [Typesafe Activator template][activator].
+In this episode [Andrew][andrew] and [Steven][steven] talk about their experience with a recently completed project: a [Typesafe Activator template][activator].
 
-* Episode [mp3](http://flatmapsociety.github.io/episodes/flatMap_0_1-2014-10-15.mp3)
+* [mp3](http://flatmapsociety.github.io/episodes/flatMap_0_1-2014-10-15.mp3)
 * [Soundcloud](https://soundcloud.com/flatmap-society/flatmap-01-2014-10-15)
-* iTunes submission currently under review
+* [iTunes](https://itunes.apple.com/us/podcast/the-flatmap-society/id929940579)
 * Here are the [show notes][shownotes] with any links we promised during the podcast
 
 [andrew]:      http://twitter.com/han_cholo

@@ -7,6 +7,9 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://flatmapsociety.github.io/" # the base hostname & protocol for your site
 twitter_username: flatMapSociety
 github_username:  flatMapSociety
-
+soundcloud_username: flatmap-society
+itunes_username: flatMap Society
+itunes_link: http://www.apple.com/itunes/
+permalink: /:year/:month/:title.html
 # Build settings
 markdown: kramdown
