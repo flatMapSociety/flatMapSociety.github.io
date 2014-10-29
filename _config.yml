@@ -9,7 +9,7 @@ twitter_username: flatMapSociety
 github_username:  flatMapSociety
 soundcloud_username: flatmap-society
 itunes_username: flatMap Society
-itunes_link: http://www.apple.com/itunes/
+itunes_link: https://itunes.apple.com/us/podcast/the-flatmap-society/id929940579
 permalink: /:year/:month/:title.html
 # Build settings
 markdown: kramdown
